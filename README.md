@@ -18,6 +18,9 @@
 - Calculates max number.
 - Sends max number and its index back to master process.
 #### Note: Size of array may not be divisible by number of processes. So, you should handle this case.
+##Screenshot
+![problem1](https://user-images.githubusercontent.com/100175518/226146212-76e18c04-347e-45ab-937a-d7d5263b0a8d.png)
+
 # Problem2 Statement :
 develop a parallel program that calculate matrix multiplication .
 
